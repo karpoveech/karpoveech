@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Maxim Karpovich
-- 👀 I’m interested in Manual Software Testing
-- 🌱 I’m currently learning API testing
-- 📫 How to reach me: 
+- 👀 My areas of interest:
+- Manual testing; functional, API, regression, UI testing.
+- 📫 You can reach me via: 
 LinkedIn: https://linkedin.com/in/karpoveech
 Telegram: @karpoveech
 Email: maks.karpovich.94@gmail.com
